@@ -1,4 +1,4 @@
-baseurl = "https://kgeographer.github.io/cosit-space-place/"
+baseurl = "https://kgeographer.github.io"
 title = "Academic"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
