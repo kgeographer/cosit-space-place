@@ -4,6 +4,7 @@ copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+publishDir = "docs"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
