@@ -24,7 +24,8 @@ defaultContentLanguageInSubdir = false
   role = "COSIT is the biennial Conference on Spatial Information Theory"
   organization = "The 2017 locale is L'Aquila, Italy"
   organization_url = "http://cosit2017.org"
-  avatar = "portrait.jpg"
+  # avatar = "![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")"
+  avatar = "bubbles.jpg"
   email = "test@example.org"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -155,7 +156,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Proceedings"
-  url = "#projects"
+  url = "#proceedings"
   weight = 5
 
 [[menu.main]]
