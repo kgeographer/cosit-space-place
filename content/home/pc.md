@@ -23,10 +23,10 @@ weight = 20
 * Leif Isaksen (Lancaster University)
 * Krzysztof Janowicz (University of California, Santa Barbara)
 * Chris Jones (Cardiff University)
-* Glauco Mantegari
+* Glauco Mantegari (Independent Scholar, Milan)
 * Bruno Martins (University of Lisbon)
 * Ruth Mostern (University of Pittsburgh)
-* Paty Murieta-Flores (Lancaster University)
+* Paty Murieta-Flores (University of Chester)
 * Adam Rabinowitz (University of Texas, Austin)
 * Kieron Smith (Cardiff University)
 * Rainer Simon (Austrian Institute of Technology)
