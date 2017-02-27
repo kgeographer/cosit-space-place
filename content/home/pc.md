@@ -13,4 +13,21 @@ widget = "custom"
 weight = 20
 
 +++
-(Alphabetically)
+* Andrea Ballatore (Birkbeck, University of London)
+* Elton Barker (The Open University)
+* Daniel Blank (University of Bamberg)
+* Tom Brughmans (University of Konstanz)
+* Curdin Derungs (University of Zurich)
+* Chris Donaldson (Lancaster University)
+* Tom Elliott (New York University)
+* Leif Isaksen (Lancaster University)
+* Krzysztof Janowicz (University of California, Santa Barbara)
+* Chris Jones (Cardiff University)
+* Glauco Mantegari
+* Bruno Martins (University of Lisbon)
+* Ruth Mostern (University of Pittsburgh)
+* Paty Murieta-Flores (Lancaster University)
+* Adam Rabinowitz (University of Texas, Austin)
+* Kieron Smith (Cardiff University)
+* Rainer Simon (Austrian Institute of Technology)
+* Joanna Taylor (Lancaster University)
