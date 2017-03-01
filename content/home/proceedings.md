@@ -13,4 +13,19 @@ widget = "custom"
 weight = 50
 
 +++
-all accepted submissions will appear in a conference proceedings volume
+## Instructions for authors
+
+We are accepting short paper submissions (6-8 pages, including tables, figures, and references) on the topics of interest described above. We encourage paper submissions from researchers working on these issues from any disciplinary perspective.
+All articles must be prepared using either the Springer Word Document Template or the Springer Latex Document Template (contributed books):
+https://www.springer.com/gp/authors-editors/book-authors-editors/manuscript-preparation/5636. 
+More general information for your camera-ready manuscript preparation can be found in the Manuscript Guidelines and Key Style Points and on the website of Springer.
+
+The workshop proceedings will be published in a combined volume with the other COSIT workshop proceedings. It will be published by Springer, in the series Lecture Notes in Geoinformation and Cartography (http://www.springer.com/series/7418 ).
+
+## Important dates
+
+* Papers due: May 12
+* Notification of acceptance: June 16
+* Authors send camera-ready papers to workshop organisers: June 28
+* Workshop: September 4
+ 

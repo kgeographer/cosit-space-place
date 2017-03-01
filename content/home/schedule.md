@@ -13,4 +13,5 @@ widget = "custom"
 weight = 40
 
 +++
-a schedule, once we have it
+The workshop schedule will be updated as we get closer to the day of the workshop.
+

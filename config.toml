@@ -1,6 +1,6 @@
 baseurl = "https://kgeographer.github.io/cosit-space-place/"
-title = "A COSIT 2017 Workshop"
-copyright = "&copy; 2016 Your Name"
+title = "SPHINx 2017"
+copyright = "&copy; 2017"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,9 +20,9 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = ""
-  role = "COSIT is the biennial Conference on Spatial Information Theory"
-  organization = "L'Aquila, Italy, 4-8 September, 2017"
+  name = "SPHINx 2017"
+  role = "@ COSIT, the biennial Conference on Spatial Information Theory"
+  organization = "L'Aquila, Italy, 4 September, 2017"
   organization_url = "http://cosit2017.org"
   # avatar = "![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")"
   avatar = "bubbles.jpg"
