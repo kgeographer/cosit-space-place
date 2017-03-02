@@ -12,8 +12,8 @@ weight = 1
 
 +++
 
-# SPHINx 2017
-## Spatial Humanities meets Spatial Information Theory: Space, Place, and Time in Humanities Research
+# <span class="red">SPHIN</span>x 2017
+## <span class="red">SP</span>atial <span class="red">H</span>umanities meets Spatial <span class="red">IN</span>formation Theory: Space, Place, and Time in Humanities Research
 
 Humanities disciplines such as history, classical studies, literary studies, and philology have in recent years experienced a "[spatial turn](http://spatial.scholarslab.org/spatial-turn)" similar to that begun in prior decades within the social sciences and archaeology. Many researchers in these fields are now explicitly recording the spatial and temporal attributes of their data and mapping them for visual analysis and argumentation. In many cases they are also performing spatial or spatial-temporal computations, including but not limited to viewshed, network, and cluster analyses, and agent-based and other models and simulations are increasingly common.
 The software used for this work is the same as that used for the environmental and social sciences: desktop GIS and specialized spatial and natural language processing libraries for the Python and R languages. These new spatial researchers are experiencing the same representational and analytic challenges in studying geographical dynamics that are well known to other disciplines, but they also face distinctive issues related to the nature of historical humanities data. Furthermore, epistemologies associated with new quantitative approaches must be reconciled with their traditional methodological practices.

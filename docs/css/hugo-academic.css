@@ -3,7 +3,29 @@
  *  Designed by @GeorgeCushen.
  *  https://github.com/gcushen/hugo-academic
  **************************************************/
-
+.red {
+  color: #004466;
+  /*color: red;*/
+}
+.portrait-title img {
+  margin:auto;
+}
+.org {
+  color: black !important;
+}
+#profile h3 {
+  font-size: 1em !important;
+}
+#profile h2 {
+  font-size: 1.1em !important;
+}
+.navbar-brand {
+  margin-left: 35px !important;
+  text-transform: none !important;
+}
+.navbar-toggle a {
+  margin-left: 35px;
+}
 /*************************************************
  *  Core
  **************************************************/
