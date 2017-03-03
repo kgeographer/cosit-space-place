@@ -17,7 +17,7 @@ autolink = true
 +++
 Please feel free to contact the workshop co-organizers. We are:
 
-**Benjamin Adams**  
+**Ben Adams**  
 *University of Canterbury*  
 benjamin[dot]adams[at]canterbury[dot]ac[dot]nz  
 
