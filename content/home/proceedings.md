@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Proceedings"
+title = "Submissions"
 subtitle = ""
 widget = "custom"
 
@@ -22,10 +22,13 @@ More general information for your camera-ready manuscript preparation can be fou
 
 The workshop proceedings will be published in a combined volume with the other COSIT workshop proceedings. It will be published by Springer, in the series Lecture Notes in Geoinformation and Cartography (http://www.springer.com/series/7418 ).
 
+Submissions should be made through the EasyChair website at the following link:  https://easychair.org/conferences/?conf=sphinx2017.
+
 ## Important dates
 
 * Papers due: May 12
 * Notification of acceptance: June 16
-* Authors send camera-ready papers to workshop organisers: June 28
+* Camera-ready papers due: June 28
 * Workshop: September 4
- 
+
+Registration information can be found on the main COSIT webpage: http://www.cosit2017.org/ 
