@@ -1,10 +1,9 @@
-baseurl = "https://kgeographer.github.io/cosit-space-place/"
-title = "SPHINx 2017 Workshop"
-copyright = "&copy; 2017"
-theme = "academic_custom"
+baseurl = "https://example.com"
+title = "Academic"
+copyright = "&copy; 2016 Your Name"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-publishDir = "docs"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -20,16 +19,11 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "a pre-conference workshop @"
-  #name = "SPHINx 2017"
-  role = "the biennial Conference on Spatial Information Theory"
-  # role = "@ COSIT, the biennial Conference on Spatial Information Theory"
-  organization = "L'Aquila, Italy, 4 September, 2017"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
+  organization = "Stanford University"
   organization_url = ""
-  # organization_url = "http://cosit2017.org"
-  # avatar = "![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")"
-  avatar = "bubbles.jpg"
-  logo = "img/LOGO-cosit2017-002.png"
+  avatar = "portrait.jpg"
   email = "test@example.org"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -131,7 +125,23 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:benjamin.adams@canterbury.ac.nz"
+    link = "mailto:test@example.org"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/GeorgeCushen"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/gcushen"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -144,29 +154,35 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Program Committee"
-  url = "#pc"
+  name = "Publications"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Links"
-  url = "#links"
+  name = "Posts"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Schedule"
-  url = "#schedule"
+  name = "Projects"
+  url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Proceedings"
-  url = "#proceedings"
+  name = "Teaching"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
