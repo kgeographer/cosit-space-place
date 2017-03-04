@@ -18,4 +18,11 @@ weight = 30
 * <a href="http://spatial.scholarslab.org/" target="new">Spatial Humanities: A Project of the Institute for Enabling Geospatial Scholarship</a>, University of Virginia.
 * Bodenhamer, D. J., Corrigan, J., & Harris, T. M. (2010). <a href="http://www.iupress.indiana.edu/product_info.php?products_id=287756" target="new"><i>The spatial humanities: GIS and the future of humanities scholarship</i></a>. Indiana University Press.
 * Gregory, I. N., & Geddes, A. (Eds.). (2014). <a href="https://books.google.com/books?id=JYQxAwAAQBAJ&pg=PA1&dq=spatial+humanities&lr=&source=gbs_toc_r&cad=4#v=onepage&q&f=false" target="new">Toward spatial humanities: Historical GIS and spatial history</a>. Indiana University Press.
+
++++++++++++++
+
+* Jang, M. H. (2012). <a target="new" href="http://www.tandfonline.com/doi/abs/10.1080/13658816.2011.635596">Three-dimensional visualization of an emotional map with geographical information systems: a case study of historical and cultural heritage in the Yeongsan River Basin, Korea</a>. International Journal of Geographical Information Science, 26(8), 1393-1413.
 * Scheider, S. and Janowicz, K. (2014): <a href="http://geog.ucsb.edu/~jano/PlaceReferenceSystems.pdf" target="new">Place reference systems. A constructive activity model of reference to place.</a> Applied Ontology Journal 9 (2), IOS Press, pp. 97-127.
+* Travis, C. (2014). <a target="new" href="http://www.tandfonline.com/doi/full/10.1080/13658816.2013.829232">Transcending the cube: translating GIScience time and space perspectives in a humanities GIS</a>. International Journal of Geographical Information Science, 28(5), 1149-1164.
+* von Lünen, A., & Travis, C. (Eds.). (2012). <a target="new" href="http://tinyurl.com/hplknb2">History and GIS: Epistemologies, considerations and reflections</a>. Springer Science & Business Media.
+* Worboys, M. (2005). <a target="new" href="http://tinyurl.com/jy75h9t">Event‐oriented approaches to geographic phenomena</a>. International Journal of Geographical Information Science, 19(1), 1-28.

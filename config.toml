@@ -159,8 +159,8 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Proceedings"
-  url = "#proceedings"
+  name = "Submissions"
+  url = "#submissions"
   weight = 5
 
 [[menu.main]]
