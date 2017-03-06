@@ -26,7 +26,7 @@ weight = 20
 * Glauco Mantegari (Independent scholar, Milan)
 * Bruno Martins (University of Lisbon)
 * Ruth Mostern (University of Pittsburgh)
-* Patricia Murieta-Flores (University of Chester)
+* Patricia Murrieta-Flores (University of Chester)
 * Adam Rabinowitz (University of Texas, Austin)
 * Kieron Smith (Cardiff University)
 * Rainer Simon (Austrian Institute of Technology)
