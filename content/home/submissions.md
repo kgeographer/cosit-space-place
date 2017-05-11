@@ -26,7 +26,7 @@ Submissions should be made through the EasyChair website at the following link: 
 
 ## Important dates
 
-* Papers due: May 12
+* Papers due: May 22 (updated)
 * Notification of acceptance: June 16
 * Camera-ready papers due: June 28
 * Workshop: September 4
