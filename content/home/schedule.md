@@ -28,7 +28,7 @@ The workshop schedule will alternate between presentations of the accepted paper
 | 13:00 - 14:30 | Lunch |
 | 14:30 - 14:50 | *Scholz et al. - Modeling Spatio-temporal Dialect Data* |
 | 14:50 - 15:10 | *Szady & Lawrynowicz - Considering Identification of Locality in Time* |
-| 15:10 - 15:40 | Second group work - exploring connections between GIScience reasearch and spatial humanities |
+| 15:10 - 15:40 | Second group work - finding connections between GIScience research and spatial humanities |
 | 15:40 - 16:00 | Summary |
 | 16:00 - 16:30 | Coffee |
 
