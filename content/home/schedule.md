@@ -18,7 +18,7 @@ The workshop schedule will alternate between presentations of the accepted paper
 | Time        | Content |
 |-------------|---------|
 | 9:00 - 9:30 | Introductions and plan for the day |
-| 9:30 - 10:10 | Ross Purves - TBA |
+| 9:30 - 10:10 | Ross Purves - *Place - a journey* |
 | 10:10 - 10:30 | Discussion |
 | 10:30 - 11:00 | Coffee |
 | 11:00 - 11:20 | *Reinhold et al. - Exploring Deep Mapping Concepts* |
